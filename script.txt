@@ -1,0 +1,17 @@
+To activate venv
+DRFENV\Scripts\Activate
+
+To Create Project
+django-admin startproject main
+
+code .
+
+to run code
+
+migration scripts
+python manage.py makemigrations
+create user
+python manage.py createsuperuser
+
+to create sub-application
+python manage.py startapp player
